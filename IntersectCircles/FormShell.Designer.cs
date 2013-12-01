@@ -1,6 +1,6 @@
 ﻿namespace IntersectCircles
 {
-    partial class Form1
+    partial class FormShell
     {
         /// <summary>
         /// Требуется переменная конструктора.

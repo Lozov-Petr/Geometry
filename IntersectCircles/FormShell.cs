@@ -10,12 +10,12 @@ using System.Windows.Forms;
 
 namespace IntersectCircles
 {
-    public partial class Form1 : Form
+    public partial class FormShell : Form
     {
         Circle c1 = new Circle();
         Circle c2 = new Circle();
 
-        public Form1()
+        public FormShell()
         {
             InitializeComponent();
         }

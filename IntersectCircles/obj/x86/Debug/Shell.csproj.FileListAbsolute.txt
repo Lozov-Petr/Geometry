@@ -1,0 +1,10 @@
+C:\Users\Notter_Killer\Documents\GitHub\Geometry\IntersectCircles\bin\Debug\IntersectCircles.exe
+C:\Users\Notter_Killer\Documents\GitHub\Geometry\IntersectCircles\bin\Debug\IntersectCircles.pdb
+C:\Users\Notter_Killer\Documents\GitHub\Geometry\IntersectCircles\bin\Debug\Circle.dll
+C:\Users\Notter_Killer\Documents\GitHub\Geometry\IntersectCircles\bin\Debug\Circle.pdb
+C:\Users\Notter_Killer\Documents\GitHub\Geometry\IntersectCircles\obj\x86\Debug\Shell.csprojResolveAssemblyReference.cache
+C:\Users\Notter_Killer\Documents\GitHub\Geometry\IntersectCircles\obj\x86\Debug\IntersectCircles.Properties.Resources.resources
+C:\Users\Notter_Killer\Documents\GitHub\Geometry\IntersectCircles\obj\x86\Debug\Shell.csproj.GenerateResource.Cache
+C:\Users\Notter_Killer\Documents\GitHub\Geometry\IntersectCircles\obj\x86\Debug\IntersectCircles.exe
+C:\Users\Notter_Killer\Documents\GitHub\Geometry\IntersectCircles\obj\x86\Debug\IntersectCircles.pdb
+C:\Users\Notter_Killer\Documents\GitHub\Geometry\IntersectCircles\obj\x86\Debug\IntersectCircles.FormShell.resources

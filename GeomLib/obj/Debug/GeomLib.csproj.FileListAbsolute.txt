@@ -1,0 +1,4 @@
+C:\Users\Notter_Killer\Documents\GitHub\Geometry\GeomLib\bin\Debug\Circle.dll
+C:\Users\Notter_Killer\Documents\GitHub\Geometry\GeomLib\bin\Debug\Circle.pdb
+C:\Users\Notter_Killer\Documents\GitHub\Geometry\GeomLib\obj\Debug\Circle.dll
+C:\Users\Notter_Killer\Documents\GitHub\Geometry\GeomLib\obj\Debug\Circle.pdb
