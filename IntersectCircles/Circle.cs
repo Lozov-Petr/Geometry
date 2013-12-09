@@ -9,7 +9,6 @@ namespace IntersectCircles
 {
     public class Circle : CommonCircle
     {
-
         static Random rnd = new Random();
 
         public void createRandCircle()
