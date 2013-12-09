@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-
 namespace IntersectCircles
 {
     public partial class FormShell : Form
